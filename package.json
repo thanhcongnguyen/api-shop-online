@@ -28,6 +28,10 @@
   },
   "homepage": "https://github.com/thanhcongnguyen/api-shop-online#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "pg": "^7.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.37.5",
+    "sequelize-cli": "^4.0.0"
   }
 }
