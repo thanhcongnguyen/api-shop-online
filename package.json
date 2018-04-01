@@ -1,0 +1,33 @@
+{
+  "name": "api-shop-online",
+  "version": "1.0.0",
+  "description": "api\u001b[D\u001b[D\u001b[D\u001b[A\u001b\u001b[C\u001b[api\u001b[D\u001b[D\u001b[D \u001b[C\u001bapi",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhcongnguyen/api-shop-online.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "repository",
+    "pattern",
+    "design",
+    "pattern",
+    "orm",
+    "postgres"
+  ],
+  "author": "thanhcongnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhcongnguyen/api-shop-online/issues"
+  },
+  "homepage": "https://github.com/thanhcongnguyen/api-shop-online#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
